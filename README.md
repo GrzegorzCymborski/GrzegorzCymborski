@@ -6,7 +6,7 @@
 <h3 align="center">🛠 </h3>
 
 <p align="center">
-<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" style="height:30px;">
+<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" style="height:30;">
 <img src="https://cdn.svgporn.com/logos/microsoft-windows.svg" style="height:30px;">
 <img src="https://cdn.svgporn.com/logos/apple.svg" style="height:30px;">
 <img src="https://cdn.svgporn.com/logos/raspberry-pi.svg" style="height:30px;">
