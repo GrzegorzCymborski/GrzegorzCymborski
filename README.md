@@ -1,8 +1,6 @@
 <h2 align="center"> Hey there! I'm Grzegorz.</h2>
 <p align="center">I like to code</p>
 
-<br>
-
 <h3 align="center">🛠 </h3>
 
 <p align="center">
