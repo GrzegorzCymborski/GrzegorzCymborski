@@ -1,2 +1,2 @@
 ![Metrics](/github-metrics.svg)
-![👀](https://592791.xyz)
+[Hi!](https://592791.xyz)
